@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NemetschekBIMStructureSettings Activated="1">
+  <Files>
+    <File ID="0001" State="0" Activated="1" />
+    <File ID="0002" State="0" Activated="1" />
+    <File ID="0003" State="0" Activated="1" />
+    <File ID="0004" State="0" Activated="1" />
+    <File ID="0005" State="0" Activated="1" />
+    <File ID="0006" State="0" Activated="1" />
+    <File ID="0007" State="0" Activated="1" />
+    <File ID="0008" State="0" Activated="1" />
+    <File ID="0009" State="0" Activated="1" />
+    <File ID="0010" State="0" Activated="1" />
+    <File ID="0011" State="2" Activated="1" />
+    <File ID="0012" State="2" Activated="1" />
+    <File ID="0013" State="0" Activated="1" />
+    <File ID="0014" State="0" Activated="1" />
+    <File ID="0015" State="0" Activated="1" />
+    <File ID="0016" State="0" Activated="1" />
+    <File ID="0017" State="0" Activated="1" />
+    <File ID="0018" State="0" Activated="1" />
+    <File ID="0019" State="0" Activated="1" />
+    <File ID="0020" State="0" Activated="1" />
+    <File ID="0021" State="2" Activated="1" />
+    <File ID="0022" State="3" Activated="1" />
+    <File ID="0023" State="0" Activated="1" />
+    <File ID="0024" State="0" Activated="1" />
+    <File ID="0025" State="0" Activated="1" />
+    <File ID="0026" State="0" Activated="1" />
+    <File ID="0027" State="0" Activated="1" />
+    <File ID="0028" State="0" Activated="1" />
+    <File ID="0029" State="0" Activated="1" />
+    <File ID="0030" State="0" Activated="1" />
+    <File ID="0031" State="2" Activated="1" />
+    <File ID="0032" State="0" Activated="1" />
+    <File ID="0033" State="0" Activated="1" />
+    <File ID="0034" State="0" Activated="1" />
+    <File ID="0035" State="0" Activated="1" />
+    <File ID="0036" State="0" Activated="1" />
+    <File ID="0037" State="0" Activated="1" />
+    <File ID="0038" State="0" Activated="1" />
+    <File ID="0039" State="0" Activated="1" />
+    <File ID="0040" State="0" Activated="1" />
+  </Files>
+<SelectedNodes>
+    <Project Name="BEtonske i zidane konstrukcije" NodeID="9fb2786f-bf79-43d1-b705-25ba764248c8" />
+    <Building Name="Building" NodeID="900f2de9-9aea-4e58-9edf-841bdae05e9f" />
+    <Storey Name="Temelji" NodeID="bb1ff4ab-dc3d-4ce1-a953-624bd0945a16" />
+    <Storey Name="Ground floor" NodeID="b4d3aa15-ba69-41dc-bea8-8f241e1c7a77" />
+    <Storey Name="1. Upper floor" NodeID="bac1a704-0fb6-46ed-9901-3e584521993f" />
+</SelectedNodes>
+<IndeterminatelySelectedNodes>
+</IndeterminatelySelectedNodes>
+<ExpandedNodes>
+    <Building Name="Building" NodeID="900f2de9-9aea-4e58-9edf-841bdae05e9f" />
+    <Storey Name="Temelji" NodeID="bb1ff4ab-dc3d-4ce1-a953-624bd0945a16" />
+    <Storey Name="Ground floor" NodeID="b4d3aa15-ba69-41dc-bea8-8f241e1c7a77" />
+    <Storey Name="1. Upper floor" NodeID="bac1a704-0fb6-46ed-9901-3e584521993f" />
+</ExpandedNodes>
+</NemetschekBIMStructureSettings>

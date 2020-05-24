@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BridgeData>
+  <Version>2.0</Version>
+  <Projects>
+    <Project>
+      <ID>Bridge</ID>
+      <Name>Bridge</Name>
+      <Dir>Project2</Dir>
+      <Workspace></Workspace>
+      <Info>
+</Info>
+      <Settings>
+        <ExportConstructions>yes</ExportConstructions>
+        <ExportAxis>yes</ExportAxis>
+        <ExportRails>yes</ExportRails>
+        <ExportSections>no</ExportSections>
+        <ExportTendons>yes</ExportTendons>
+        <ExportPlacements>yes</ExportPlacements>
+        <BodyDrawing>New</BodyDrawing>
+        <ConstructionsDrawing>New</ConstructionsDrawing>
+        <AxisDrawing>Current</AxisDrawing>
+        <RailsDrawing>New</RailsDrawing>
+        <SectionsDrawing>New</SectionsDrawing>
+        <TendonsDrawing>New</TendonsDrawing>
+        <PlacementsDrawing>Current</PlacementsDrawing>
+      </Settings>
+      <DefaultDrawingNr>1</DefaultDrawingNr>
+      <Drawing>
+        <Name>Bridge</Name>
+        <BSID>271b4f7e-36a7-4391-93b2-357e48615f23</BSID>
+        <Number>-1</Number>
+        <Type>Bridge</Type>
+        <Drawings>
+          <Drawing>
+            <Name>Bodies</Name>
+            <Number>2</Number>
+            <Type>Part</Type>
+            <Drawings />
+          </Drawing>
+          <Drawing>
+            <Name>Paths</Name>
+            <Number>3</Number>
+            <Type>Part</Type>
+            <Drawings />
+          </Drawing>
+        </Drawings>
+      </Drawing>
+      <Objects>
+        <Object>
+          <ID>Girder 1_part_1</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Girder 1_part_1</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Axis</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Girder 1_part_2</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Girder 1_part_2</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Axis</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Girder 1_part_3</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Girder 1_part_3</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Axis</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Girder 1_part_4</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Girder 1_part_4</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Axis</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Girder 1_part_5</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Girder 1_part_5</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Axis</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Girder 1_part_6</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Girder 1_part_6</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Axis</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Girder 1_part_7</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Girder 1_part_7</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Axis</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Girder 1_part_8</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Girder 1_part_8</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Axis</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Girder 1_part_9</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Girder 1_part_9</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Axis</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Pier 1_part_1</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Pier 1_part_1</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Pier 1_part_2</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Pier 1_part_2</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Pier 2_part_1</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Pier 2_part_1</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Pier 2_part_2</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Pier 2_part_2</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Pier 3_part_1</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Pier 3_part_1</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+        <Object>
+          <ID>Pier 3_part_2</ID>
+          <NextPartID>1</NextPartID>
+          <Name>Pier 3_part_2</Name>
+          <Parts>
+            <Part>
+              <Drawing>2</Drawing>
+              <Type>Bodies</Type>
+            </Part>
+            <Part>
+              <Drawing>3</Drawing>
+              <Type>Paths</Type>
+            </Part>
+          </Parts>
+        </Object>
+      </Objects>
+    </Project>
+  </Projects>
+</BridgeData>

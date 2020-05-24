@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<AttributeDefinitionCollection Region="US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../Xsd/AttributeDefinitionCollection.xsd">
+  <AttributeDefinition>
+    <Uid>80c8e711-394d-4eaa-91a6-484be1228390</Uid>
+    <Ifnr>12000</Ifnr>
+    <Text>Layout user attribute  1</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut  1</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>5eb0a25f-bff9-4b1c-a6db-532617627b56</Uid>
+    <Ifnr>12001</Ifnr>
+    <Text>Layout user attribute  2</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut  2</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>c5c6e4e9-1092-42bd-8d4d-ecc34a776c45</Uid>
+    <Ifnr>12002</Ifnr>
+    <Text>Layout user attribute  3</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut  3</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>e2aa3e71-580e-4980-9f43-90d15dcd3013</Uid>
+    <Ifnr>12003</Ifnr>
+    <Text>Layout user attribute  4</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut  4</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>ee4370ad-2ad8-4341-b40a-5a62695cff1a</Uid>
+    <Ifnr>12004</Ifnr>
+    <Text>Layout user attribute  5</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut  5</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>f8114e14-c289-43af-a34d-7e5b978f5815</Uid>
+    <Ifnr>12005</Ifnr>
+    <Text>Layout user attribute  6</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut  6</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>89e0bffb-1667-413f-8c4e-e27eb8c18d57</Uid>
+    <Ifnr>12006</Ifnr>
+    <Text>Layout user attribute  7</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut  7</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>8c0e66d5-2a93-4106-9bb2-8d89026d3082</Uid>
+    <Ifnr>12007</Ifnr>
+    <Text>Layout user attribute  8</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut  8</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>2e9bb7fb-99c5-4757-b0f9-d55000ffd7d7</Uid>
+    <Ifnr>12008</Ifnr>
+    <Text>Layout user attribute  9</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut  9</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>6d54f0be-5159-4e72-a857-613b4affe50a</Uid>
+    <Ifnr>12009</Ifnr>
+    <Text>Layout user attribute 10</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 10</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>6FEF6CC3-A8F3-4FB7-904E-F33B6F2DFEBF</Uid>
+    <Ifnr>12010</Ifnr>
+    <Text>Layout user attribute 11</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 11</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>5E0C97EF-9AA5-48FE-B0A8-7FD4527359BB</Uid>
+    <Ifnr>12011</Ifnr>
+    <Text>Layout user attribute 12</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 12</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>10796EC5-1780-4394-ABD8-BFF365AFFF17</Uid>
+    <Ifnr>12012</Ifnr>
+    <Text>Layout user attribute 13</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 13</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>7B0F6443-62B0-4FB9-B85A-B7DD1DBC32FB</Uid>
+    <Ifnr>12013</Ifnr>
+    <Text>Layout user attribute 14</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 14</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>8444ED0D-CBB0-4CA6-8630-125ECBBDB682</Uid>
+    <Ifnr>12014</Ifnr>
+    <Text>Layout user attribute 15</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 15</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>592F537A-6FF5-4F68-ACAF-D8453357CD68</Uid>
+    <Ifnr>12015</Ifnr>
+    <Text>Layout user attribute 16</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 16</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>07268C3C-AD02-4BAF-B6A2-D4CE35C27740</Uid>
+    <Ifnr>12016</Ifnr>
+    <Text>Layout user attribute 17</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 17</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>2CBC89C3-DC00-486B-99E7-E9F9E3C747CD</Uid>
+    <Ifnr>12017</Ifnr>
+    <Text>Layout user attribute 18</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 18</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>3BCAA914-D034-4B13-921F-4BEBCDD4BBE2</Uid>
+    <Ifnr>12018</Ifnr>
+    <Text>Layout user attribute 19</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 19</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <AttributeDefinition>
+    <Uid>8B98AB3F-A477-4D48-9B83-0AC3A55234A4</Uid>
+    <Ifnr>12019</Ifnr>
+    <Text>Layout user attribute 20</Text>
+    <MinValue>0</MinValue>
+    <MaxValue>63</MaxValue>
+    <Datatype>C</Datatype>
+    <Group>1924145364992</Group>
+    <!--Group 1924145364992: ATTR_PRG_BEREICH_PLAN, ATTR_PRG_BEREICH_NAMINGSYSTEM, ATTR_PRG_BEREICH_SENDPACKAGE, ATTR_PRG_BEREICH_USER_LAYOUT-->
+    <Modify>true</Modify>
+    <Visible>true</Visible>
+    <PropertyBitMask>4</PropertyBitMask>
+    <Comment>Plan-Benutzerattribut 20</Comment>
+    <ComboBox/>
+  </AttributeDefinition>
+  <CurrentVersion>2</CurrentVersion>
+</AttributeDefinitionCollection>

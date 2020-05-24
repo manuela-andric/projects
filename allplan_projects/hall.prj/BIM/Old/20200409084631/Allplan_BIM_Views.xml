@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NemetschekSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" NodeID="8934bd68-58ba-420c-9d1b-3bf0a2820210">
+  <ViewNodes xmlns="http://tempuri.org/XMLSchema.xsd">
+    <ViewNode NodeID="53804809-1282-47e8-b7eb-6be78407102a" Name="Views">
+      <ViewNodes>
+        <ViewNode NodeID="92a1efe8-0476-4705-bfa5-1a9c904302f8" Name="View 1">
+          <View>
+            <Destination>
+              <File ID="101" />
+              <File ID="102" />
+              <File ID="103" />
+              <File ID="104" />
+              <File ID="105" />
+              <File ID="106" />
+              <File ID="107" />
+              <File ID="108" />
+              <File ID="109" />
+              <File ID="110" />
+            </Destination>
+          </View>
+        </ViewNode>
+        <ViewNode NodeID="8ef222fa-90df-43c6-9427-dd062b1a25e7" Name="View 2">
+          <View>
+            <Destination>
+              <File ID="111" />
+              <File ID="112" />
+              <File ID="113" />
+              <File ID="114" />
+              <File ID="115" />
+              <File ID="116" />
+              <File ID="117" />
+              <File ID="118" />
+              <File ID="119" />
+              <File ID="120" />
+            </Destination>
+          </View>
+        </ViewNode>
+        <ViewNode NodeID="e5d8a83f-1814-4e2a-b4d4-2f2d134744a0" Name="View 3">
+          <View>
+            <Destination>
+              <File ID="121" />
+              <File ID="122" />
+              <File ID="123" />
+              <File ID="124" />
+              <File ID="125" />
+              <File ID="126" />
+              <File ID="127" />
+              <File ID="128" />
+              <File ID="129" />
+              <File ID="130" />
+            </Destination>
+          </View>
+        </ViewNode>
+        <ViewNode NodeID="d1fd8610-9ac2-404a-881e-80354ca0fd8f" Name="View 4">
+          <View>
+            <Destination>
+              <File ID="131" />
+              <File ID="132" />
+              <File ID="133" />
+              <File ID="134" />
+              <File ID="135" />
+              <File ID="136" />
+              <File ID="137" />
+              <File ID="138" />
+              <File ID="139" />
+              <File ID="140" />
+            </Destination>
+          </View>
+        </ViewNode>
+      </ViewNodes>
+    </ViewNode>
+  </ViewNodes>
+  <SectionNodes xmlns="http://tempuri.org/XMLSchema.xsd">
+    <SectionNode NodeID="32fa3d5d-bd2e-4bf7-b31d-5303259470af" Name="Sections">
+      <SectionNodes>
+        <SectionNode NodeID="30bd36b0-6394-4537-bfbf-27780ac74d0e" Name="Section 1">
+          <Section>
+            <Destination>
+              <File ID="201" />
+              <File ID="202" />
+              <File ID="203" />
+              <File ID="204" />
+              <File ID="205" />
+              <File ID="206" />
+              <File ID="207" />
+              <File ID="208" />
+              <File ID="209" />
+              <File ID="210" />
+            </Destination>
+          </Section>
+        </SectionNode>
+        <SectionNode NodeID="e46c9352-ff92-410c-b24f-afa397c081b5" Name="Section 2">
+          <Section>
+            <Destination>
+              <File ID="211" />
+              <File ID="212" />
+              <File ID="213" />
+              <File ID="214" />
+              <File ID="215" />
+              <File ID="216" />
+              <File ID="217" />
+              <File ID="218" />
+              <File ID="219" />
+              <File ID="220" />
+            </Destination>
+          </Section>
+        </SectionNode>
+      </SectionNodes>
+    </SectionNode>
+  </SectionNodes>
+  <ListNodes xmlns="http://tempuri.org/XMLSchema.xsd">
+    <ListNode NodeID="636fa306-ee81-4f97-b1f1-7515be0a9444" Name="Reports">
+      <ListNodes>
+        <ListNode NodeID="1e88b0a8-7e7d-446e-bf4d-e1e34d6b6fe7" Name="Report 1">
+          <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+        </ListNode>
+        <ListNode NodeID="b135c03e-f7c9-4bbe-8175-f65d2a0820d2" Name="Report 2">
+          <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+        </ListNode>
+      </ListNodes>
+    </ListNode>
+  </ListNodes>
+</NemetschekSummary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NemetschekBIMStructureSettings Activated="1">
+  <Files>
+    <File ID="0001" State="3" Activated="1" />
+    <File ID="0002" State="2" Activated="1" />
+    <File ID="0003" State="2" Activated="1" />
+  </Files>
+<SelectedNodes>
+    <Project Name="Novi_projekt_2" NodeID="75fbb9a8-306d-4ae1-9653-1798a703d51b" />
+    <Building Name="Bridge" NodeID="271b4f7e-36a7-4391-93b2-357e48615f23" />
+</SelectedNodes>
+<IndeterminatelySelectedNodes>
+</IndeterminatelySelectedNodes>
+<ExpandedNodes>
+    <Building Name="Bridge" NodeID="271b4f7e-36a7-4391-93b2-357e48615f23" />
+</ExpandedNodes>
+</NemetschekBIMStructureSettings>
